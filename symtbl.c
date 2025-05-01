@@ -14,16 +14,7 @@ VarDecl *mainBlockST;
 int numClasses;
 ClassDecl *classesST;
 
-/* Utility function: counts the number of children in an AST node list */
-int getNum(ASTree *t) {
-    ASTList *p = t->children;
-    int count = 0;
-    while(p && p->data) {
-        count++;
-        p = p->next;
-    }
-    return count;
-}
+
 
 /* Utility function: extracts variable declarations from an AST node into an array */
 void getVars(ASTree *t, VarDecl *v, int num) {
