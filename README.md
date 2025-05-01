@@ -44,7 +44,7 @@ gcc dj.tab.c ast.c symtbl.c typecheck.c codegen.c -o djc
 
 ## Private Repository Notice
 
-The source code for this project has been privatized due to institutional policies. If you would like explanations of specific implementation details, code snippets, or have any questions, please feel free to email me at **your_email@example.com**.
+The source code for this project has been privatized due to institutional policies. If you would like explanations of specific implementation details, code snippets, or have any questions, please feel free to email me at **indukuri3@usf.edu**.
 
 ---
 
