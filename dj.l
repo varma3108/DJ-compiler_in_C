@@ -1,10 +1,3 @@
-%{
-#define DEBUG 0
-#include <stdio.h>
-#include <stdlib.h>
-typedef int Token;
-Token scanned(Token t);
-%}
 %option yylineno
 %option noyywrap
 digit       [0-9]
