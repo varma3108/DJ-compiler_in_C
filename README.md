@@ -1,4 +1,4 @@
-# DJ-compiler_in_C
+# DJ-compiler-in-C-x86(64-bit)
 Compiler with LALR(1) parsing, codegen, AST gen 
 # DJ Compiler
 
